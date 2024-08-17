@@ -40,10 +40,12 @@ namespace RandomMonkeys.MonkeysRandomGenerator
             TowerType.SuperMonkey,
             TowerType.WizardMonkey,
             TowerType.Druid,
+            TowerType.Mermonkey,
             TowerType.MonkeyVillage,
             TowerType.EngineerMonkey,
             TowerType.BananaFarm,
-            TowerType.SpikeFactory
+            TowerType.SpikeFactory,
+            TowerType.BeastHandler
         };
 
         static private readonly int numberConverters = 100;
